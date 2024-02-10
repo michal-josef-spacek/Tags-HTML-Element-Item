@@ -1,5 +1,5 @@
 ---
-abstract: 'Tags helpers for HTML elements.'
+abstract: 'Tags helpers for common HTML form item.'
 author:
   - 'Michal Josef Spacek <skim@cpan.org>'
 build_requires:
